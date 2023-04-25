@@ -37,4 +37,4 @@ Si quieres contribuir a este proyecto, por favor haz lo siguiente:
 Este juego fue creado por jgonzalez-89.
 Las imágenes utilizadas en este juego fueron tomadas de https://github.com/sourabhv/FlapPyBird/tree/master/assets.
 
-[img]https://i.ibb.co/jb9Pyf6/Captura-de-pantalla-2023-04-25-112845.png[/img]
+![Captura de pantalla del juego](https://i.ibb.co/jb9Pyf6/Captura-de-pantalla-2023-04-25-112845.png)
