@@ -38,4 +38,5 @@ Este juego fue creado por jgonzalez-89.
 Las imágenes utilizadas en este juego fueron tomadas de https://github.com/sourabhv/FlapPyBird/tree/master/assets.
 
 ##Captura de pantalla del juego <br>
-<img src="https://i.ibb.co/cvzcQGB/Captura-de-pantalla-2023-04-25-151430.png" alt="Flappy Bird" width="288" height="600" />
+<img src="https://i.ibb.co/B68jtHQ/Captura-de-pantalla-2023-04-25-151430.png" alt="Flappy Bird" width="288" height="600" />
+
