@@ -20,7 +20,7 @@ Este es un clon del juego Flappy Bird creado con Python y Pygame.
     - app.py: Este archivo contiene el código principal del juego.
     - assets/bird.png: Esta es la imagen del pájaro.
     - assets/bg.png: Esta es la imagen del fondo.
-    - assets/pipe-green.png: Esta es la imagen de las tuberías.
+    - assets/pipe.png: Esta es la imagen de las tuberías.
     - assets/base.png: Esta es la imagen del suelo.
 
 
